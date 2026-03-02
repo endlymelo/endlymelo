@@ -37,7 +37,7 @@ Sou focada na **arquitetura, código limpo, RPA voltada para negócios**.
 ### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### DevOps & Tools
 
