@@ -1,6 +1,6 @@
 # Olá 👋, Sou Endly Melo
 
-🚀 **Engenheiro de Software Junior | JavaScript & .Python**  
+🚀 **Engenheira de Software Junior | JavaScript & .Python**  
 🇧🇷 Brasil
 
 Eu Desenvolvo  **API´s**, mas desejo ampliar meus conhecimentos  
