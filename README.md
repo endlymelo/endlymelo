@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá 👋, ou Endly Melo
 
-<!--
-**endlymelo/endlymelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engenheiro de Software Junior | JavaScript & .Python**  
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+Eu Desenvolvo  **API´s**, mas desejo ampliar meus conhecimentos  
+Sou focada na **arquitetura, código limpo, RPA voltada para negócios**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde Me Encontrar
+
+<p align="left">
+  <a href="https://github.com/endlymelo">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
